@@ -13,5 +13,6 @@ Just run this command below:
 ```python3
 python3 thanos.py random_files/ 10000
 ```
+And snap your fingers!
 
 Note: the first argument is the directory path to files will delete and the second is timer for script activity 
